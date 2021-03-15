@@ -6,6 +6,8 @@ Technologies: Python
 
 Install:
 
-  pip install pytube
+    pip install pytube
   
-  run
+    run
+
+Only for educational purposes!!!
